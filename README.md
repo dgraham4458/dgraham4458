@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**dgraham4458/dgraham4458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **dgraham4458**, a tinkerer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Looking to collaborate on open source
+- 🌟 Open source enthusiast
+- 🎨 Code is poetry
+- 🤔 Exploring new technologies
+
+## Tech
+
+`Go` `Rust` `Vue`
+
+---
+
+_Automate everything._
